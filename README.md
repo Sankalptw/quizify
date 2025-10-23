@@ -1,1 +1,1 @@
-# quizify
+A crazy quiz app
